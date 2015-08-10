@@ -1,0 +1,47 @@
+{
+	"run": [
+		{
+			"name": "default",
+			"default": "true",
+			
+			//	current working dir
+			"cwd": "~/workspace",
+			
+			//	run commands list
+			//	example: 
+			//		"rails server"
+			"commands": [
+				"rails server"
+			],
+			
+			//	environment variables
+			//	example: 
+			//		"PORT": "3000"
+			"environment": {
+				"PORT": "80"
+			},
+			
+			//	if "preview" is set, it will open the link in a 
+			//	preview panel after setting environment variables 
+			//	and all commands have been executed
+			//
+			//	to use specific port in preview url	directly
+			//		"url": "http://preview.{{box_domain}}:3000/"
+			//	or you can use http proxy (if you are behind firewall)
+			//		"url": "http://port-3000.{{box_domain}}/"
+			//	
+			//	"type": "external" to open preview in a new browser tab
+			//	"type": "internal" to open preview in a new editor tabtre
+			"preview": {
+				"url": "http://preview.{{BOX_DOMAIN}}:{{PORT}}/",
+				"type": "internal"
+			}
+		}
+	],
+	"find_in_files": {
+		"ignore": [
+			//	file types to ignore in search
+			".git", ".svn"
+		]
+	}
+}
