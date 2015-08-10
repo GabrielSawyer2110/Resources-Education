@@ -1,22 +1,15 @@
-# Welcome to GitHub Pages.
-This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. After your page is generated, you can check out the new `gh-pages` branch locally. If you’re using GitHub for Mac or GitHub for Windows, simply sync your repository and you’ll see the new branch.
+# Resources-Development-Investments-Planning-Tracking-Brainstorming for iEducated Foundation.
 
-### Designer Templates
-We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.
+Started this GitHub for a wide variety of reasons, but mainly to track and record work I've done over the past year on establishing my in progress non-profit for better student support, equity, and success. Other reasons would include getting used to, and developing skills, Github.
 
-### Creating pages manually
-If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
+###Tracking, Planning, and Brainstorming
 
-### Authors and Contributors
-You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
+This will be for documenting my work; all-encompassing planning for my foundation and the direction of marketing, structure, organizational governing documents, as well as both short- and long-term vision/mission. Planning will be a significant part of this, as I'm ever-evolving with the direction and objectives when it comes to short-term goals and business strategies. Brainstorming, probably just on my own, will definitely be apart of this and would fall under planning and tracking, or at least could.
 
-### Support or Contact
-Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###Self-Directed
 
-## Potential-Taglines
-> Created by a Student, for the Students.
-> Creating Social Investment Opportunities for Student Equity and Support
-> Providing Research that re-defines Sociological Standards. 
-> Ending the Growing Epidemic of Student Homelessness
-`                   >Over 310,000 Student Youth reported in California-- 21% of the Nation's total.
->Creating innovative structures and collaborative environments.
+I'm a self-directed learner, and unfortunately, my experiences over the past year have caused me to lose a lot of trust in people, both generally and personally. So, I started on the venture back in December (Originally using Muse), to learn front-end web development. However, I overlooked and underestimated the extreme depth and importance of programming so I will be tracking that skills development as well--which will lead to dynamic planning with my website and database/resource structures. I will also create a blog, a resource center for students, email newsletter with subscribers database and so on.
+
+###Potential-Taglines
+
+Created by a Student, for the Students. Creating Social Investment Opportunities for Student Equity and Support Providing Research that re-defines Sociological Standards. Ending the Growing Epidemic of Student Homelessness ` *Over 310,000 Student Youth reported in California-- 21% of the Nation's total. Creating innovative structures and collaborative environments.
